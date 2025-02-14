@@ -2,7 +2,7 @@
 
 # Olá, eu sou Matheus Dias 👋
 
-Sou um desenvolvedor apaixonado por resolver problemas e criar soluções tecnológicas. 
+Estudante e desenvolvedor. 
 
 ## Projetos 🚀
 - [Projeto 1](https://github.com/Diasz1m/todo-list.git): Uma todo-list bem simples.
