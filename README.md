@@ -11,7 +11,7 @@ Estudante e desenvolvedor.
 
 ## Habilidades 🛠️
 - **Linguagens**: JavaScript, PHP, Java
-- **Ferramentas**: Angluar, Node.js, Git
+- **Ferramentas**: Angular, Node.js, Git
 
 ## Contato 📫
 - **Email**: matheusdias.2000@alunos.utfpr.edu.br
