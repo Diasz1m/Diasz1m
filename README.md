@@ -10,8 +10,8 @@ Estudante e desenvolvedor.
 - [Projeto 3](https://github.com/Diasz1m/blog-angular.git)(https://github.com/Diasz1m/blog-v1.git): um blog
 
 ## Habilidades 🛠️
-- [![Linguagens](https://img.icons8.com/?size=50&id=EqulwTz4BZj0&format=png&color=000000)]: JavaScript, PHP, Java, Python
-- [![Feramentas](https://img.icons8.com/?size=50&id=t2qhHbkztAbf&format=png&color=000000)]: Angular, Node.js, Git, Spring, Django
+- ![Linguagens](https://img.icons8.com/?size=50&id=EqulwTz4BZj0&format=png&color=000000): JavaScript, PHP, Java, Python
+- ![Feramentas](https://img.icons8.com/?size=50&id=t2qhHbkztAbf&format=png&color=000000): Angular, Node.js, Git, Spring, Django
 
 ## Contato 📫
 
