@@ -18,4 +18,4 @@ Estudante e desenvolvedor.
 
 ## Contato 📫
 -![gmail](https://github.com/user-attachments/assets/40dc7dc7-0809-4b36-9dd2-2eda734f4e8c): matheusdias.2000@alunos.utfpr.edu.br
-- ![linkedin](https://github.com/user-attachments/assets/47385fdc-bffc-4e50-a05c-64b84f946847): (https://www.linkedin.com/in/matheus-dias-5691bb195/)
+-![linkedin (1)](https://github.com/user-attachments/assets/9348328d-5765-4ef6-a62e-54a754b4850a): (https://www.linkedin.com/in/matheus-dias-5691bb195/)
