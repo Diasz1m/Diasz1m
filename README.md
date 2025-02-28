@@ -10,8 +10,8 @@ Estudante e desenvolvedor.
 - [Projeto 3](https://github.com/Diasz1m/blog-angular.git)(https://github.com/Diasz1m/blog-v1.git): um blog
 
 ## Habilidades 🛠️
-- **Linguagens**: JavaScript, PHP, Java
-- **Ferramentas**: Angular, Node.js, Git
+- **Linguagens**: JavaScript, PHP, Java, Python
+- **Ferramentas**: Angular, Node.js, Git, Spring, Django
 
 ## Contato 📫
 - **Email**: matheusdias.2000@alunos.utfpr.edu.br
