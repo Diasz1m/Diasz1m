@@ -18,8 +18,6 @@ Estudante e desenvolvedor.
 
 ## Contato 📫
 
-[![LinkedIn](https://img.icons8.com/?size=50&id=42823&format=png&color=000000)](https://www.linkedin.com/in/seu-perfil)
-
-[![Gmail](https://img.icons8.com/?size=50&id=nQ4dZIRCI0nW&format=png&color=000000)](mailto:matheusdias.2000@alunos.utfpr.edu.br)
+[![LinkedIn](https://img.icons8.com/?size=50&id=42823&format=png&color=000000)](https://www.linkedin.com/in/seu-perfil) [![Gmail](https://img.icons8.com/?size=50&id=nQ4dZIRCI0nW&format=png&color=000000)](mailto:matheusdias.2000@alunos.utfpr.edu.br) [![Twitter](https://img.icons8.com/?size=50&id=ClbD5JTFM7FA&format=png&color=000000)](https://x.com/jdjdjdjdjejwwjw) 
 
 
