@@ -9,12 +9,9 @@ Estudante e desenvolvedor.
 - [Projeto 2](https://github.com/Diasz1m/currency_quotation.git): Uma api para buscar dados sobre cotações de medas e retornar em tempo real.
 - [Projeto 3](https://github.com/Diasz1m/blog-angular.git)(https://github.com/Diasz1m/blog-v1.git): um blog
 
-
-<h1>sadklfjsdalkfja sdafkljadslkf</h1>
-
 ## Habilidades 🛠️
-- **Linguagens**: JavaScript, PHP, Java, Python
-- **Ferramentas**: Angular, Node.js, Git, Spring, Django
+- [![Linguagens](https://img.icons8.com/?size=50&id=EqulwTz4BZj0&format=png&color=000000)]: JavaScript, PHP, Java, Python
+- [![Feramentas](https://img.icons8.com/?size=50&id=t2qhHbkztAbf&format=png&color=000000)]: Angular, Node.js, Git, Spring, Django
 
 ## Contato 📫
 
