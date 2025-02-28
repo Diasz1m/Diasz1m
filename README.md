@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **angular, java and PHP**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1pR4Rj4X9lNrSQFro5EB8u6gvBBdVodwF6X_FHlU7uNw/edit?usp=sharing](https://docs.google.com/document/d/1pR4Rj4X9lNrSQFro5EB8u6gvBBdVodwF6X_FHlU7uNw/edit?usp=sharing)
+- 📄 Know about my experiences [Resume](https://docs.google.com/document/d/1pR4Rj4X9lNrSQFro5EB8u6gvBBdVodwF6X_FHlU7uNw/edit?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
