@@ -19,4 +19,5 @@ Estudante e desenvolvedor.
 ## Contato 📫
 - [![Gmail](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cib-gmail_%28CoreUI_Icons_v1.0.0%29.svg/640px-Cib-gmail_%28CoreUI_Icons_v1.0.0%29.svg.png)](mailto:matheusdias.2000@alunos.utfpr.edu.br)
 
--  : (https://www.linkedin.com/in/matheus-dias-5691bb195/)
+-  [![LinkedIn](https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Linkedin-brands-solid.svg/640px-Linkedin-brands-solid.svg.png)](https://www.linkedin.com/in/matheus-dias-5691bb195)
+
