@@ -17,6 +17,6 @@ Estudante e desenvolvedor.
 - **Ferramentas**: Angular, Node.js, Git, Spring, Django
 
 ## Contato 📫
-- [![Gmail](https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg)](mailto:matheusdias.2000@alunos.utfpr.edu.br)
+- [![Gmail](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Cib-gmail_%28CoreUI_Icons_v1.0.0%29.svg/640px-Cib-gmail_%28CoreUI_Icons_v1.0.0%29.svg.png)](mailto:matheusdias.2000@alunos.utfpr.edu.br)
 
 -  : (https://www.linkedin.com/in/matheus-dias-5691bb195/)
