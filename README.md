@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Matheus Dias</h1>
 <h3 align="center">Student and developer!</h3>
 
-- 🔭 I’m currently working on [Widesys](https://widesys.com.br/)
+- 🔭 I’m currently working on [Viasoft](https://viasoft.com.br/)
 
-- 🌱 I’m currently learning **django**
+- 🌱 I’m currently learning **React**
 
 - 💬 Ask me about **angular, java and PHP**
 
